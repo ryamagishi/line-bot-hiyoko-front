@@ -1,0 +1,8 @@
+export const LOAD_STATUS_PARAM = {
+  INITIALIZE: 0,
+  DATA_LOADED: 1
+};
+
+// your api server url
+export const API_URL_BASE = "";
+export const API_URL_MESSAGES = API_URL_BASE + "answer_api/messages/";
